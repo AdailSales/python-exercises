@@ -1,8 +1,7 @@
-#!usr/bin/python3
 '''
-Escreva(numero)
+numero = input de dados.
 Saída:
-    Escreval("Analisando o valor {} seu antecessor é {} e seu sucessor é {})
+Escreva("Analisando o valor {} seu antecessor é {} e seu sucessor é {})
 '''
 numero = int(input('Digite um número: '))
 
